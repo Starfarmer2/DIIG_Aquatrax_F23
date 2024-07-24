@@ -5,4 +5,4 @@
 
 ## Meter Degradation prediction
 * Best Performing Algorithm: Adaboost decision tree in ./src/Degradation/Aquatrax_Degradation_Richard.ipynb
-* Achieved 94.6% out-of-sample accuracy
+* Achieved 96.2% out-of-sample accuracy
